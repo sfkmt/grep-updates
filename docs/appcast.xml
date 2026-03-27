@@ -3,6 +3,19 @@
     <channel>
         <title>Grep</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Fri, 27 Mar 2026 14:38:01 +0900</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <sparkle:releaseNotesLink>https://sfkmt.github.io/grep-updates/Grep-1.0.1-2.md</sparkle:releaseNotesLink>
+            <enclosure url="https://sfkmt.github.io/grep-updates/Grep-1.0.1-2.dmg" length="2053648" type="application/octet-stream" sparkle:edSignature="34Ct9FcH61+S66Se/T76OOEeAZ2o3sRjwZvXHIjXpb8agGyLIvKjYsRrkZTx+I0wiKNcpjI2SYRQC/uA6yC4Bg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://sfkmt.github.io/grep-updates/Grep2-1.delta" sparkle:deltaFrom="1" length="9746" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="977808" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="iJzyARUNxqX6DLBtr8ZT6lAyplAXAf170+rOB6uXKa5ahw/sMStGCqofTBL3Bt8ROgzObZDS+b0SdtYMJ9J7Dw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Fri, 27 Mar 2026 14:30:37 +0900</pubDate>
             <sparkle:version>1</sparkle:version>
