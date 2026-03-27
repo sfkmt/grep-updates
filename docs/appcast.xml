@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Grep</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Fri, 27 Mar 2026 14:30:37 +0900</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://sfkmt.github.io/grep-updates/Grep-1.0.0-1.dmg" length="2053667" type="application/octet-stream" sparkle:edSignature="fp2dFDlAoUxdpQHI36l6A65gCIQkEECFIc0Qmvt2WOeZyDqegI0I5O9P+US8j0gkVdQzVJgTlbgNgeQsdGstBQ=="/>
+        </item>
+    </channel>
+</rss>
